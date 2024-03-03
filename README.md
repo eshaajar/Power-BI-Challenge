@@ -1,5 +1,5 @@
 # Power-BI-Challenge
 
-Test
+Collection of Challenge Workout completed for [WorkoutWednesday](https://workout-wednesday.com/power-bi-challenges/)
 
-https://workout-wednesday.com/power-bi-challenges/
+ 
